@@ -16,7 +16,7 @@ public class IndexController {
     @RequestMapping("1232")
     @ResponseBody
     public String index2() {
-        return "index";
+        return "湖南省常德市";
     }
 
 }
